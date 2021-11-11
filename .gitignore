@@ -1,0 +1,18 @@
+# Ficheros xml
+*.xml
+# Ficheros logs
+*.log
+# Ficheros properties
+*.properties
+# Ficheros jar
+*.jar
+# carpetas
+/test/
+/nbproject/
+/xml/
+/logs/
+/build/
+/dist/
+/ficheros/
+/lib
+
